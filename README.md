@@ -1,9 +1,8 @@
 # education-files
-Selection of files that i used or created while learning to code. Some content belongs to the 
-respective producer of the content.
+Selection of files that i used or created while learning to code. Some content belongs to the respective producer of the content.
 
-## project 1
-summary of project
+## Udacity-Python
+Files used while doing the Udacity Python course at https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/36256587390923
 
 ## project 2
 summary of project
