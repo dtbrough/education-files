@@ -4,8 +4,8 @@ Selection of files that i used or created while learning to code. Some content b
 ## Udacity-Python
 Files used while doing the Udacity Python course at https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/36256587390923
 
-## project 2
+## automate the boring stuff with python
 summary of project
 
-## project 3
+## learn python the hard way
 summary of project
